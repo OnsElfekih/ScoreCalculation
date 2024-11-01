@@ -23,5 +23,7 @@ This C# Windows Forms application is designed to facilitate the calculation and 
 3. Build and run the application.
 ## Usage
 Upon launching the application, users can input their details, grades, and other factors. The application will calculate the score based on the provided inputs and allow users to manage their data effectively.
+
+## Execution
 ![Capture d'écran 2024-11-01 211503](https://github.com/user-attachments/assets/4709d1ea-1f5c-4668-b6f3-494b7a23bb64)
 
