@@ -1,0 +1,16 @@
+D:\onsd\ITBS\C#\ScoreCalculation\ScoreCalculation\bin\Debug\net8.0-windows\ScoreCalculation.exe
+D:\onsd\ITBS\C#\ScoreCalculation\ScoreCalculation\bin\Debug\net8.0-windows\ScoreCalculation.deps.json
+D:\onsd\ITBS\C#\ScoreCalculation\ScoreCalculation\bin\Debug\net8.0-windows\ScoreCalculation.runtimeconfig.json
+D:\onsd\ITBS\C#\ScoreCalculation\ScoreCalculation\bin\Debug\net8.0-windows\ScoreCalculation.dll
+D:\onsd\ITBS\C#\ScoreCalculation\ScoreCalculation\bin\Debug\net8.0-windows\ScoreCalculation.pdb
+D:\onsd\ITBS\C#\ScoreCalculation\ScoreCalculation\obj\Debug\net8.0-windows\ScoreCalculation.Form1.resources
+D:\onsd\ITBS\C#\ScoreCalculation\ScoreCalculation\obj\Debug\net8.0-windows\ScoreCalculation.csproj.GenerateResource.cache
+D:\onsd\ITBS\C#\ScoreCalculation\ScoreCalculation\obj\Debug\net8.0-windows\ScoreCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\onsd\ITBS\C#\ScoreCalculation\ScoreCalculation\obj\Debug\net8.0-windows\ScoreCalculation.AssemblyInfoInputs.cache
+D:\onsd\ITBS\C#\ScoreCalculation\ScoreCalculation\obj\Debug\net8.0-windows\ScoreCalculation.AssemblyInfo.cs
+D:\onsd\ITBS\C#\ScoreCalculation\ScoreCalculation\obj\Debug\net8.0-windows\ScoreCalculation.csproj.CoreCompileInputs.cache
+D:\onsd\ITBS\C#\ScoreCalculation\ScoreCalculation\obj\Debug\net8.0-windows\ScoreCalculation.dll
+D:\onsd\ITBS\C#\ScoreCalculation\ScoreCalculation\obj\Debug\net8.0-windows\refint\ScoreCalculation.dll
+D:\onsd\ITBS\C#\ScoreCalculation\ScoreCalculation\obj\Debug\net8.0-windows\ScoreCalculation.pdb
+D:\onsd\ITBS\C#\ScoreCalculation\ScoreCalculation\obj\Debug\net8.0-windows\ScoreCalculation.genruntimeconfig.cache
+D:\onsd\ITBS\C#\ScoreCalculation\ScoreCalculation\obj\Debug\net8.0-windows\ref\ScoreCalculation.dll

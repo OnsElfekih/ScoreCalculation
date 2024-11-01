@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreCalculation", "ScoreCalculation\ScoreCalculation.csproj", "{0DCBBF03-68F7-49A4-B8B4-A98F7C9870F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DCBBF03-68F7-49A4-B8B4-A98F7C9870F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCBBF03-68F7-49A4-B8B4-A98F7C9870F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCBBF03-68F7-49A4-B8B4-A98F7C9870F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCBBF03-68F7-49A4-B8B4-A98F7C9870F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0049C54-2725-4DF1-92F9-6154DC2AC723}
+	EndGlobalSection
+EndGlobal
