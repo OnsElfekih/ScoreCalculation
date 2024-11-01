@@ -1,3 +1,1 @@
-"# ScoreCalculation" 
-"# ScoreCalculation" 
-"# Score-Manager" 
+"# ScoreManager" 

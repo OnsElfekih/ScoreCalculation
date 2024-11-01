@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\onsd\\ITBS\\C#\\ScoreCalculation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0DCBBF03-68F7-49A4-B8B4-A98F7C9870F7}|ScoreCalculation\\ScoreCalculation.csproj|d:\\onsd\\itbs\\c#\\scorecalculation\\scorecalculation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCBBF03-68F7-49A4-B8B4-A98F7C9870F7}|ScoreCalculation\\ScoreCalculation.csproj|solutionrelative:scorecalculation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0DCBBF03-68F7-49A4-B8B4-A98F7C9870F7}|ScoreCalculation\\ScoreCalculation.csproj|d:\\onsd\\itbs\\c#\\scorecalculation\\scorecalculation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DCBBF03-68F7-49A4-B8B4-A98F7C9870F7}|ScoreCalculation\\ScoreCalculation.csproj|solutionrelative:scorecalculation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DCBBF03-68F7-49A4-B8B4-A98F7C9870F7}|ScoreCalculation\\ScoreCalculation.csproj|d:\\onsd\\itbs\\c#\\scorecalculation\\scorecalculation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0DCBBF03-68F7-49A4-B8B4-A98F7C9870F7}|ScoreCalculation\\ScoreCalculation.csproj|D:\\onsd\\ITBS\\C#\\ScoreCalculation\\scorecalculation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0DCBBF03-68F7-49A4-B8B4-A98F7C9870F7}|ScoreCalculation\\ScoreCalculation.csproj|solutionrelative:scorecalculation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCBBF03-68F7-49A4-B8B4-A98F7C9870F7}|ScoreCalculation\\ScoreCalculation.csproj|d:\\onsd\\itbs\\c#\\scorecalculation\\scorecalculation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCBBF03-68F7-49A4-B8B4-A98F7C9870F7}|ScoreCalculation\\ScoreCalculation.csproj|solutionrelative:scorecalculation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,21 +25,25 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\onsd\\ITBS\\C#\\ScoreCalculation\\ScoreCalculation\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "ScoreCalculation\\Form1.Designer.cs",
               "ToolTip": "D:\\onsd\\ITBS\\C#\\ScoreCalculation\\ScoreCalculation\\Form1.Designer.cs",
               "RelativeToolTip": "ScoreCalculation\\Form1.Designer.cs",
-              "ViewState": "AQIAAC8CAAAAAAAAAAAgwG8CAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8CAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T19:58:56.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\onsd\\ITBS\\C#\\ScoreCalculation\\ScoreCalculation\\Form1.cs",
               "RelativeDocumentMoniker": "ScoreCalculation\\Form1.cs",
@@ -52,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Conception]",
               "DocumentMoniker": "D:\\onsd\\ITBS\\C#\\ScoreCalculation\\ScoreCalculation\\Form1.cs",
               "RelativeDocumentMoniker": "ScoreCalculation\\Form1.cs",

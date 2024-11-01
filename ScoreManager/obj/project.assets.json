@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\onsd\\ITBS\\C#\\ScoreCalculation\\ScoreCalculation\\ScoreCalculation.csproj",
-      "projectName": "ScoreCalculation",
-      "projectPath": "D:\\onsd\\ITBS\\C#\\ScoreCalculation\\ScoreCalculation\\ScoreCalculation.csproj",
+      "projectUniqueName": "D:\\onsd\\ITBS\\C#\\ScoreCalculation\\ScoreCalculation\\ScoreManager.csproj",
+      "projectName": "ScoreManager",
+      "projectPath": "D:\\onsd\\ITBS\\C#\\ScoreCalculation\\ScoreCalculation\\ScoreManager.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
       "outputPath": "D:\\onsd\\ITBS\\C#\\ScoreCalculation\\ScoreCalculation\\obj\\",
       "projectStyle": "PackageReference",
