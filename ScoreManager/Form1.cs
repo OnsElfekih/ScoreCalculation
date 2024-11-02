@@ -18,6 +18,7 @@ namespace ScoreCalculation
             TxtLang.Enter += TxtLang_Enter; // Triggered when TxtLang gains focus
             TxtTech.Enter += TxtTech_Enter; // Triggered when TxtTech gains focus
             TxtNIC.KeyPress += TxtNIC_KeyPress; // Event to handle key presses in TxtNIC
+            TxtTel.KeyPress += TxtTel_KeyPress;// Event to handle key presses in TxtTel
         }
 
         // Timer tick event to update the current time
@@ -56,6 +57,15 @@ namespace ScoreCalculation
                 e.Handled = true; // Block non-numeric characters
                 // Show a warning message for invalid input
                 MessageBox.Show("Please enter a valid identification number ", "Alert", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+        // Handle key presses in TxtTel to ensure numeric input
+        private void TxtTel_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if ((e.KeyChar < '0' || e.KeyChar > '9') && e.KeyChar != (char)Keys.Back)
+            {
+                e.Handled = true;
+                MessageBox.Show("Please enter a valid phone number.", "Alerte", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
 
