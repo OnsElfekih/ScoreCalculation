@@ -18,7 +18,7 @@ This C# Windows Forms application is designed to facilitate the calculation and 
 ## Installation
 1. Clone the repository to your local machine using:
      ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/OnsElfekih/ScoreCalculation.git
 2. Open the project in Visual Studio.
 3. Build and run the application.
 ## Usage
