@@ -27,3 +27,15 @@ Upon launching the application, users can input their details, grades, and other
 ## Execution
 ![Capture d'écran 2024-11-01 211503](https://github.com/user-attachments/assets/4709d1ea-1f5c-4668-b6f3-494b7a23bb64)
 
+---
+## 👩‍💻 Author
+
+**Ons Elfekih**  
+IT Engineering Student — Business Intelligence  
+🔗 [LinkedIn](https://www.linkedin.com/in/ons-elfekih) · [Portfolio](https://portfolio-elfekih-ons.vercel.app/)
+
+---
+
+## 📄 License
+
+This project is for academic and portfolio purposes.
